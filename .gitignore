@@ -1,3 +1,12 @@
+# visual studio files
+*.vs
+*.sln
+*.vcxproj
+*.zip
+*.txt
+*.pdf
+
+
 # Prerequisites
 *.d
 
