@@ -1,11 +1,13 @@
 # visual studio files
-*.vs
+.vs/
 *.sln
 *.vcxproj
 *.zip
 *.txt
 *.pdf
-
+x64/
+*.filters
+*.user
 
 # Prerequisites
 *.d
